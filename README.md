@@ -49,4 +49,4 @@ Feel free to take a look at all my repositories and if you find something useful
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Github Statistics
-![Luiz Fhelipy github stats](https://github-readme-stats.vercel.app/api?username=LuizFhelipy&show_icons=true&hide_border=true)
+![Luiz Fhelipy github stats](https://github-readme-stats.vercel.app/api?username=LuizFhelipy&show_icons=true&hide_border=true&theme=omni)
