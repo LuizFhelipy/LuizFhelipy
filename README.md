@@ -51,6 +51,6 @@ Feel free to take a look at all my repositories and if you find something useful
 ## Github Statistics
 
 <p>
-  ![Luiz Fhelipy github stats](https://github-readme-stats.vercel.app/api?username=LuizFhelipy&show_icons=true&hide_border=true&theme=omni)
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfhelipy&layout=compact&theme=omni>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuizFhelipy&show_icons=true&theme=great-gatsby">ㅤㅤ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfhelipy&layout=compact&langs_count=6&theme=great-gatsby">
 </p>
