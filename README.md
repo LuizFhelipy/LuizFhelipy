@@ -18,7 +18,7 @@ Feel free to take a look at all my repositories and if you find something useful
 ## About
 
 - 🎤 I’m currently working on  [Inatel](https://inatel.br/home/)
-- 🏢 I'm currently studying on [Univas](https://www.univas.edu.br/index_univas_1.asp)
+- 🏢 I have already completed my studies at [Univas](https://www.univas.edu.br/index_univas_1.asp)
 - 🤖 I’m currently learning DevOps
 - 💬 Ask me about Software Developer 
 
