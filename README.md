@@ -9,7 +9,7 @@
 
 My name is Luiz Fhelipy, I am passionate about technology and how it helps people. I am currently involved in software development projects, mainly using Java in SpringBoot technology.
 
-I am studying the 7th Period of Information Systems at the educational institution [Univas](https://www.univas.edu.br/index_univas_1.asp). I love software development, and something that I'm very interested in is the DevOps culture and I'm starting to study the subject, dedicating myself to learn about this new concept and thinking about specializing in it.
+I am Systems Analyst, graduated in institution [UNIVAS](https://www.univas.edu.br/index_univas_1.asp) and now I am studying mobile development and cloud computing at [INATEL](https://www.univas.edu.br/index_univas_1.asp) I love software development, and something that I'm very interested in, is in DevOps culture and I'm starting to study the subject, dedicating myself to learn about this new concept and thinking about specializing in it.
 
 Feel free to take a look at all my repositories and if you find something useful there, don't think twice, you can take it home 😉.
 
@@ -17,34 +17,44 @@ Feel free to take a look at all my repositories and if you find something useful
 
 ## About
 
-- 🎤 I’m currently working on  [Inatel](https://inatel.br/home/)
-- 🏢 I have already completed my studies at [Univas](https://www.univas.edu.br/index_univas_1.asp)
+- 🎤 I’m currently working on  [Ericsson](https://www.ericsson.com/en) | [INATEL](https://inatel.br/icc/)
+- 🏢 I have already completed my studies at [UNIVAS](https://www.univas.edu.br/)
+- 🏢 I'm currently studying on [INATEL](https://inatel.br/home/)
 - 🤖 I’m currently learning DevOps
 - 💬 Ask me about Software Developer 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Languages and Technologies
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/>
-</p>
+
+### Development
+![Java](https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white)&nbsp;
+![Node JS](https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring%20Boot%20-6aad3d.svg?logo=spring&logoColor=white)&nbsp;
+![Karate](https://img.shields.io/badge/Karate-000000.svg?logo=karate&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgreSQL-336791.svg?logo=postgresql&logoColor=white)&nbsp;
+
+### DevOps
+![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2391e6.svg?logo=docker&logoColor=white)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-314d5e.svg?logo=jenkins&logoColor=white)&nbsp;
+
+### Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-41327C.svg?logo=eclipse&logoColor=white)&nbsp;
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Interests
-- Data Science
 - Data Security
 - CI/CD
+- Cloud Computing
+- Mobile Development
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
