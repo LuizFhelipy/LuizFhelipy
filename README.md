@@ -21,7 +21,7 @@ Feel free to take a look at all my repositories and if you find something useful
 - 🏢 I have already completed my studies at [UNIVAS](https://www.univas.edu.br/)
 - 🏢 I'm currently studying on [INATEL](https://inatel.br/home/)
 - 🤖 I’m currently learning DevOps
-- 💬 Ask me about Software Developer 
+- 💬 Ask me about Software Developement 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
